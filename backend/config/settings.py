@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-gz$ki+@zr^^cn5*ntk049rc4ayc*t%@57ez#mw1ig+yr0ie=b-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["hos-production-vgk703.laravel.cloud", "localhost", "127.0.0.1"]
 
 
 # Application definition
