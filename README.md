@@ -4,7 +4,7 @@ THe HOS (Hours of Service) trip planner app. In this app our service is to draw 
 
 We have used the 70hrs/8days also the assessment labeled for fuel at least one every 1000 mile
 
-We have used OpenRouteService and react-leaflet for the maps services as we use the overpass for searching.
+We have used OpenRouteService and react-leaflet for the maps services as we use the overpass for fuel stations search.
 
 The driver choose input either by searching or pin on the map
 
