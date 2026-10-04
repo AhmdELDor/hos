@@ -137,7 +137,7 @@ MAILERS = {
     },
 }
 
-CORS_ALLOWED_ORIGINS = ["http://localhost:5173", "http://127.0.0.1:5173"]
+CORS_ALLOWED_ORIGINS = ["http://localhost:5173", "http://127.0.0.1:5173", "https://hos-planner.pages.dev"]
 
 REST_FRAMEWORK = {
     "EXCEPTION_HANDLER": "hos_planner.api.exceptions.custom_exception_handler",
